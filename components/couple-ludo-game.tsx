@@ -832,7 +832,7 @@ export default function CoupleLudoGame() {
             </div>
           </div>
           
-          {/* 新版本开发计划通知卡片 */}
+          {/* 新版本开发计划通知卡片
           <div className="development-notice-card">
             <div className="notice-header">
               <Sparkles size={20} className="notice-icon" />
@@ -851,6 +851,7 @@ export default function CoupleLudoGame() {
               </p>
             </div>
           </div>
+           */}
         </div>
 
         <div className="start-content">
